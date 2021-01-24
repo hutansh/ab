@@ -1,0 +1,7 @@
+To play game, go inside the 'Among Us' folder, Right click and run 'Among Us' as administrator
+
+If you get any missing dll errors, go inside the _Redist folder and install all 5 programs
+
+If the game doesn't launch or crashes after the logo, try launching steam and launching the game again. If it still doesn't work, check your anti-virus vault and make sure it didn't delete any files.
+
+Game is updated to v2020.11.17s
